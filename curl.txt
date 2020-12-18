@@ -1,0 +1,2 @@
+curl.exe -X 'POST' -H "Content-Type:application/json" -d '{"""username""":"""Masha2""", """password""":"""varenik2618"""}' http://localhost:8000/api/signup
+
